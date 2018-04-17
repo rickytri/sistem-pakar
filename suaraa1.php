@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>abstract</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  .bg-1 { 
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  </style>
+</head>
+
+<body>
+
+<div class="container-fluid bg-1 text-center">
+ <h3>Abstract</h3>
+  <h3>VOICE RECOGNITION APPLICATION AS ELECTRICAL EQUIPMENT CONTROLLER BASED ON ARDUINO UNO</h3>
+</div>
+
+<div class="container-fluid bg-2 text-center">
+ 
+  <p>The development of science and technology brings a positive impact in human life which now reach the voice command.
+Smart home control system lets humans control their electrical devices such as TVs, fans and lights just by voice command, no need to move.
+Digital sound processing is controlled by application to recognize the commands.
+Therefore, this thesis will design Voice Recognition Application As Electrical Equipment Controller Based ArduinoUNO. EasyVR module used as voice recognition module.
+Sound sampling process on EasyVR will be done twice with similar pronounciation on every word. 
+This could be done because EasyVR can't accept the difference pronunciation beetween the second and the first.
+This application uses a relay serves as a switchThis electrical appliance uses a Relay. Wireless microphone is used so that the pronunciation can be done from long distance.
+<br>
+<b><i>Keywords: Voice Recognition, EasyVR, ArduinoUNO.</b></i></p>
+</div>
+<div class="container-fluid bg-3 text-center">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+		<ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="1"></li>
+				<li data-target="#myCarousel" data-slide-to="2"></li>
+				<li data-target="#myCarousel" data-slide-to="3"></li>
+		</ol>
+<div class="carousel-inner" role="listbox">
+    <div class="item active">
+		<center><img src="images/abstrak/suara1/1.jpg" alt="gbr1" width="500" height="350"><br></center><Br>
+		<b>Picture 1 Physical Form EasyVR</b>
+    </div>
+	 
+	<div class="item">
+        <center><img src="images/abstrak/suara1/2.jpg" alt="gb2" width="500" height="350"><br></center><br>
+		<b>Picture 2 Board Arduino UNO</b>
+    </div>
+	<div class="item">
+        <center><img src="images/abstrak/suara1/3.jpg" alt="gb2" width="500" height="350"><br></center><br>
+		<b>Picture 3 Elektronik System Design</b>
+    </div>
+	<div class="item">
+        <center><img src="images/abstrak/suara1/4.jpg" alt="gb2" width="500" height="350"><br></center><br>
+		<b>Picture 4 Sound Sampling on EasyVR Commander</b>
+    </div>
+	<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+</a><Br><br>
+<footer class="w3-center w3-light-grey w3-padding-32">
+  <p>&copy;Ricky</p>
+</footer>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
