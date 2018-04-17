@@ -1,4 +1,6 @@
 # sistem-pakar
-sistem pakar pemilihan topik judul skripsi
+sistem pakar pemilihan topik judul skripsi dengan metode forward chaining berbasis web
+Expert System of Thesis Title topic selection with forward chaining method
 
-hello this is sistem pakar prog
+this program using full PHP native
+
